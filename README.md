@@ -1,1 +1,1 @@
-Almost every MTG Cards imported for the Dacard mod, the reversible_card wweren't imported but that's a very small fraction of the total number of cards.
+Almost every MTG Cards imported for the Dacard mod, the reversible cards and the art series sets weren't imported since they're kind of a pain to deal with, they don't account for big part of the cards though. 
